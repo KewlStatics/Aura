@@ -119,7 +119,7 @@ global.Chat = require('./chat');
 
 global.Rooms = require('./rooms');
 
-global.Alliance = {};
+global.Aura = {};
 
 global.Tells = require('./tells.js');
 
